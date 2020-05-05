@@ -5,14 +5,6 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Debug node",
-            "type": "node",
-            "request": "launch",
-            "cwd": "${workspaceFolder}",
-            "program": "${workspaceFolder}/dist/index.js",
-            "skipFiles": ["<node_internals>/**"]
-        },
-        {
             "name": "Debug tests",
             "type": "node",
             "request": "launch",
