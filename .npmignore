@@ -1,0 +1,14 @@
+src
+node_modules
+coverage
+tsconfig.json
+.eslint*
+.prettier*
+.vscode
+.env.example
+README.md
+lint-staged.config.js
+babel.config.js
+.browserslistrc
+.editorconfig
+.gitattributes
